@@ -11,7 +11,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ### Links
 
 
-- Live Site URL: [My live site URL here](https://your-live-site-url.com)
+- Live Site URL: [My live site URL here](https://frabjous-dragon-1e5142.netlify.app/)
 
 ## Author
 
